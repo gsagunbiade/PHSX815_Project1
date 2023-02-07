@@ -2,7 +2,7 @@
 
 # Rolling Dice
 
-This resipository contans the listed programs
+This resipository contains the listed programs
 
 * DiceRoll.py (Python)
 * DiceAnalysis.py (Python)
